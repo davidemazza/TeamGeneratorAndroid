@@ -54,8 +54,7 @@ Download the .apk file from <a href="">here</a> or framing qrcode
 #Status
 
 Current Status Progress: 95%
-<progress value="22" max="95">
-</progress>
+
 
 # Developers
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAVPAAAAJGRhMTZjMjUxLTUwNWMtNGFmMy05YzJhLWFhM2YzZTkxNDEyNA.jpg"/><br><b>Davide Piccardi:</b> davide.piccardi@teamgenerator.it <br> https://www.linkedin.com/in/davide-piccardi-8b3950105
@@ -66,7 +65,7 @@ Current Status Progress: 95%
 
 The code, for copyright reasons , is private. For more info, you can contact us at: 
 
-Gmail: teamgeneratorapp@gmail.com
+Gmail: teamgeneratorapp@gmail.com <br>
 Team Generator: postmaster@teamgenerator.it
 
 or at linkedin profiles (see above)
