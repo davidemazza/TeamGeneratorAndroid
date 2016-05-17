@@ -14,12 +14,13 @@ The main purpose of our application is to help the user in the organization of f
         http://api.wahoofitness.com/android/api/1.4.2.5/
 
 
+
 # Architecture 
 <img src="http://www.teamgenerator.it/images/varie/architecture4.png" width="500" heigth="500" /><br>
-Here we have the general architecture of the project that we have presented in the last time. Quickly, as we can see, there are several components: 
-First of all of course there is the android application. 
-Then there are two devices for cardio and fitness activities and the last one interacts with the Lifelog platform data store. In fact we use the Sony API to get the data.
-Finally there is our server and database that run on Aruba. 
+Here we have the general architecture of the project that we have presented last time. Quickly, as we can see, there are several components: <br>
+* First of all of course there is the frontend composed by android TeamGenerator app. We use Google API for register and login the user.
+* Then there are two devices for cardio and fitness activities and the last one interacts with the Lifelog platform data store. In fact we use the Sony API to get the data.
+* Finally there is our backend composed by server and database that run on Aruba.
 
 
 #Screenshot
