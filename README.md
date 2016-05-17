@@ -56,7 +56,6 @@ Download the .apk file framing qrcode <br>
 #Website: http://www.teamgenerator.it/ <br>
 <img src="http://www.teamgenerator.it/images/varie/HomeSito.PNG" width="200" heigth="200"/>
 <img src="http://www.teamgenerator.it/images/profiloSito.PNG" width="200" heigth="200" />
-<img src="http://www.teamgenerator.it/images/varie/listaPartitesito.PNG" width="200" heigth="200" />
 <img src="http://www.teamgenerator.it/images/varie/ricercaCampo.PNG" width="200" heigth="200" />
 
 
