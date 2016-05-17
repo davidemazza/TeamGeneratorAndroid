@@ -37,15 +37,21 @@ Finally there is our server and database that run on Aruba.
 <img src="http://www.teamgenerator.it/images/varie/Screenshot_2016-05-14-19-51-55.png" width="150" heigth="300"/>
 
 #Demo
+<center>
 <img src="https://s.ytimg.com/yts/img/yt_1200-vfl4C3T0K.png" width="150" heigth="150"> <br>
 <a href="https://youtu.be/d5SqbuJcewA"> Demo Video </a>
+<br/>
+<img src=" width="150" heigth="150"> <br>
+<a href=""> Presentation </a>
+</center>
 
 #Download App
 
 To use Team Generator, you need an Android device. 
 
 First of all, enable your device to install unknown source applications (not from Play Store). Go into Settings and get to menu item shown in the pictures below (names may vary depending on your operating system). <br>
-Download the .apk file from <a href="">here</a> or framing qrcode 
+Download the .apk file framing qrcode <br>
+<img src="http://www.teamgenerator.it/images/apk_dropbox.jpg"  width="200" heigth="200"/>
 
 #Website: http://www.teamgenerator.it/ <br>
 <img src="http://www.teamgenerator.it/images/varie/HomeSito.PNG" width="200" heigth="200"/>
