@@ -63,6 +63,8 @@ Current Status Progress: 95%
 
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAdqAAAAJDdjMzkzYmU5LWFiNTEtNDc2Yy1hMDA2LWQyODg3ZWE3YjFkNg.jpg"/><br><b>Daniele Oriana:</b> daniele.oriana@teamgenerator.it <br> https://it.linkedin.com/in/daniele-oriana-08202410a
 
+# Code 
+
 The code, for copyright reasons , is private. For more info, you can contact us at: 
 
 Gmail: teamgeneratorapp@gmail.com <br>
