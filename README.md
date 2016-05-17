@@ -41,7 +41,7 @@ Finally there is our server and database that run on Aruba.
 <img src="https://s.ytimg.com/yts/img/yt_1200-vfl4C3T0K.png" width="150" heigth="150"> <br>
 <a href="https://youtu.be/d5SqbuJcewA"> Demo Video </a>
 <br/>
-<img src=" width="150" heigth="150"> <br>
+<img src="http://www.geojolly.com/wp-content/uploads/2016/02/dIbJSsRV.png" width="150" heigth="150"> <br>
 <a href=""> Presentation </a>
 </center>
 
