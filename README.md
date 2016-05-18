@@ -43,7 +43,7 @@ Here we have the general architecture of the project that we have presented last
 <a href="https://youtu.be/d5SqbuJcewA"> Demo Video </a>
 <br/>
 <img src="http://www.geojolly.com/wp-content/uploads/2016/02/dIbJSsRV.png" width="150" heigth="150"> <br>
-<a href=""> Presentation </a>
+<a href="http://www.slideshare.net/davidepiccardi/team-generator-presentation"> Presentation </a>
 </center>
 
 #Download App
